@@ -20,7 +20,10 @@
     Things I plan to do are listed on the 
     <a href="http://code.google.com/p/mapeteria/issues/list">issue tracker</a>.
     <p />
-    One of the most important things I plan to do is open-source the code.
+
+  <b>Can I see/use the code?</b><p>
+    Yes!  It is open-source.
+    <a href="http://code.google.com/p/mapeteria/">See the project page.</a>
     <p />
 
     <a name="credits"></a>
