@@ -1,6 +1,5 @@
 #summary I need help from the PHP4 gods on a few things:
-#labels Phase-Design
+#labels Phase-Design,Featured
 
   * Is there a way to make static methods in PHP4 that is not gross and ugly?
   * Why don't I get an error message/number in curl_error/curl_errno when a page can't be found?  The only time I get an error is when the server can't be found.  :-(
-
