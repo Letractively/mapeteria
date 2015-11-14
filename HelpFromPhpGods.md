@@ -1,0 +1,2 @@
+  * Is there a way to make static methods in PHP4 that is not gross and ugly?
+  * Why don't I get an error message/number in curl\_error/curl\_errno when a page can't be found?  The only time I get an error is when the server can't be found.  :-(
